@@ -77,9 +77,3 @@
 ![Snake animation](https://github.com/{{Fuatorium}}/{{Fuatorium}}/blob/output/github-contribution-grid-snake.svg)
 
 ###
-
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/a1/ce/2e/a1ce2efa35d1ede416ade64f0bbe48bd.gif"  />
-</div>
-
-###
