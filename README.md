@@ -74,9 +74,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Fuatorium/Fuatorium/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{Fuatorium}}/{{Fuatorium}}/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
