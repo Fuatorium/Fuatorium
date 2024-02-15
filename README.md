@@ -2,7 +2,16 @@
 
 ###
 
-<img align="right" height="100" src="https://i.pinimg.com/originals/a1/ce/2e/a1ce2efa35d1ede416ade64f0bbe48bd.gif"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Fuatorium/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fuatorium&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fuatorium&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -58,6 +67,27 @@
   <a href="https://tryhackme.com/p/chonaicium" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
+  <a href="https://medium.com/@fuatdemirkol" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Fuatorium/Fuatorium/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/a1/ce/2e/a1ce2efa35d1ede416ade64f0bbe48bd.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&theme=dark&username=fuatdemirkolll" alt="Layout with last medium posts"  />
 </div>
 
 ###
