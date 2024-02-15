@@ -74,6 +74,6 @@
 
 ###
 
-![Snake animation](https://github.com/{{Fuatorium}}/{{Fuatorium}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/{Fuatorium}/{Fuatorium}/output/github-contribution-grid-snake-dark.svg)
 
 ###
