@@ -1,7 +1,6 @@
 # 💫 About Me:
 Always learning and coding 🚀🚀🚀
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chonaic#0846) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fuatdemirkolll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fuatdemirkol/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fuatdemirkolll) 
 
@@ -11,6 +10,9 @@ Always learning and coding 🚀🚀🚀
 ![](https://github-readme-stats.vercel.app/api?username=Fuatorium&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fuatorium&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuatorium&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📅 Full Year Calendar
+![isocalendar](https://github.com/Fuatorium/metrics/blob/master/source/plugins/isocalendar/README.md)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fuatorium&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
