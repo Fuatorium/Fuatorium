@@ -12,17 +12,6 @@ Always learning and coding 🚀🚀🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuatorium&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📅 Full Year Calendar
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fuatorium&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
