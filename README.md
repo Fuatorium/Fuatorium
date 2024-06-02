@@ -1,23 +1,22 @@
 <h2 align="left">💫 About Me:</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fuatorium&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fuatorium&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fuatorium&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fuatorium&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuatorium&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy.gif?cid=6c09b9522wby8c6hwg44f10jddtn3qchxar6oywqboukf7kc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fuatorium&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
-
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -103,9 +102,6 @@
 
 ###
 
-
-
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -114,13 +110,22 @@
 </div>
 
 ###
-
-
-
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Fuatorium/Fuatorium/output/snake.svg" alt="Snake animation" />
+
+###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fuatorium&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 300px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=fuatorium&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
