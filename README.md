@@ -130,15 +130,6 @@
 
 ###
 
-
-
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=tokyonight&username=fuatdemirkolll" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 # My Recent Medium Articles
 
 ![Title of First Article](ID_of_first_article.png)
