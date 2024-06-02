@@ -122,7 +122,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=fuatorium&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 300px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ###
 
