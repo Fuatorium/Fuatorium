@@ -2,9 +2,9 @@
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fuatorium&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fuatorium&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuatorium&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Fuatorium&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fuatorium&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuatorium&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy.gif?cid=6c09b9522wby8c6hwg44f10jddtn3qchxar6oywqboukf7kc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -12,7 +12,7 @@
 ###
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fuatorium&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Fuatorium&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -119,7 +119,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fuatorium&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Fuatorium&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
