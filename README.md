@@ -5,7 +5,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fuatorium&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fuatorium&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuatorium&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ###
 
 <img align="right" height="100" src="https://media3.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy.gif?cid=6c09b9522wby8c6hwg44f10jddtn3qchxar6oywqboukf7kc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
