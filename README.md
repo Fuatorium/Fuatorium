@@ -135,10 +135,3 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Fuatorium/count.svg?"  />
-</div>
-
-###
-
