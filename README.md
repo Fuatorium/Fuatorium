@@ -129,5 +129,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Fuatorium&combine_all_yearly_contributions=true)
-
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Fuatorium&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions)
