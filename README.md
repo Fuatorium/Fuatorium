@@ -1,6 +1,6 @@
 
 <h2 align="left">💫 About Me:</h2>
-Crafting solutions that blend creativity with cutting-edge technology. From building seamless web experiences to leading AI-powered projects, I'm always pushing the boundaries of what's possible. 💡 Let's transform ideas into reality and make the digital world smarter together. 💻✨
+
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fuatorium&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
