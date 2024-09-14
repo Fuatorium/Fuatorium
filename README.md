@@ -129,5 +129,4 @@
 
 
 
-## 🐍 My Contributions
-<img src="https://raw.githubusercontent.com/Fuatorium/Fuatorium/output/snake.svg" alt="Snake animation" />
+
